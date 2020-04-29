@@ -5,11 +5,13 @@ description: |
 site: distill::distill_website
 bibliography: biblio.bib
 ---
-**'Human Challenge Trials' könnten die Entwicklung von Impfstoffen gegen den Corona Virus beschleunigen.
-Dabei werden, denen ein experimenteller Impfstoff verabreicht wurde, bewusst dem Virus ausgesetzt, um testen, ob sie eine Immunität aufgebaut haben.**
+##### 'Human Challenge Trials' könnten die Entwicklung von Impfstoffen gegen den Corona Virus beschleunigen. Dabei werden, denen ein experimenteller Impfstoff verabreicht wurde, bewusst dem Virus ausgesetzt, um testen, ob sie eine Immunität aufgebaut haben.
 
-**Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen.
-Ich (und auch führende Wissenschafter [@eyal]) denken aber, dass es aber in dieser Situation durchaus sinnvoll ist.**
+##### Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen. Ich (und auch führende Wissenschafter [@eyal]) denken aber, dass es aber in dieser Situation durchaus sinnvoll ist.
+
+####
+
+
 
 ### Wie Menschenversuche helfen, die Entwicklung eines Impfstoffen zu beschleunigen.
 ![](./images/vaccine_devlopement_timeline.png "https://1daysooner.org")
@@ -30,7 +32,10 @@ Jeder tag
 
 ### Wie kann ich mich melden?
 Derzeit gibt es keine möglichkeit, sich freiwillig zu melden.
-Man kann sich zwar auf [1dayooner](https://1daysooner.org/volunteer) eintragen, die 
+Man kann sich zwar auf [1dayooner](https://1daysooner.org/volunteer) eintragen, derzeit ist aber weltweit keine Studie dieser Art Geplant.
+
+### Wieso ich mich freiwillig melde?
+Die Hauptgründe, wieso ich denke, dass gerade ich dafür geeignet wäre sind, dass ich keiner bekannten Risikogruppe angehöre.
 
 ### Wieso ich mich zu Wort melde?
 Obwohl ich kein Mediziner/Immunuloge/Virologe bin, habe ich mich dazu entschieden, diese Entscheidung öffentlich zu machen.
