@@ -2,7 +2,7 @@ name: "1TagFrüher"
 title: "1 Tag Früher"
 description: |
   1 Tag Früher
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Über"
