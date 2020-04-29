@@ -7,13 +7,11 @@ bibliography: biblio.bib
 ---
 ##### 'Human Challenge Trials' könnten die Entwicklung von Impfstoffen gegen den Corona Virus beschleunigen. Dabei werden, denen ein experimenteller Impfstoff verabreicht wurde, bewusst dem Virus ausgesetzt, um testen, ob sie eine Immunität aufgebaut haben.
 
-##### Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen. Ich (und auch führende Wissenschafter [@eyal]) denken aber, dass es aber in dieser Situation durchaus sinnvoll ist.
+##### Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen. Ich (und auch führende Wissenschafter [@eyal]) denken aber, dass es aber in dieser Situation sinnvoll ist.
 
-#### Deshalb 
+### *Deshalb melde ich mich hiermit freiwillig für einen derartige Studie.*
 
-
-
-### Wie Menschenversuche helfen, die Entwicklung eines Impfstoffen zu beschleunigen.
+## Wie Menschenversuche helfen, die Entwicklung eines Impfstoffen zu beschleunigen.
 ![](./images/vaccine_devlopement_timeline.png "https://1daysooner.org")
 Gewöhnlich kann es Jahre dauern, bis ein Impfstoff Genehmigt wird.
 Dabei ist es nicht die eigentliche Suche nach dem neuen Impfstoff, die diesen Prozess so langwierig macht, sondern die Menschenversuche.
@@ -25,24 +23,24 @@ Die kann aber mehrere Monate dauern, und mit den derzeitigen social-distancing M
 Vor allem diese Phase der Impfstoffentwicklung kann durch eine 'Human Challenge' beschleunigt werden.
 Sie könnten etwa Parallel zu Phase 3 durchgeführt werden, und wichtige zusätzliche Daten liefern.
 
-### Vorteile
+## Vorteile
 Die möglichen Vorteile liegen auf der Hand.
 Jeder tag
 
 
-### Wie kann ich mich melden?
+## Wie kann ich mich melden?
 Derzeit gibt es keine möglichkeit, sich freiwillig zu melden.
 Man kann sich zwar auf [1dayooner](https://1daysooner.org/volunteer) eintragen, derzeit ist aber weltweit keine Studie dieser Art Geplant.
 
-### Wieso ich mich freiwillig melde?
+## Wieso ich mich freiwillig melde?
 Die Hauptgründe, wieso ich denke, dass gerade ich dafür geeignet wäre sind, dass ich keiner bekannten Risikogruppe angehöre.
 
-### Wieso ich mich zu Wort melde?
+## Wieso ich mich zu Wort melde?
 Obwohl ich kein Mediziner/Immunuloge/Virologe bin, habe ich mich dazu entschieden, diese Entscheidung öffentlich zu machen.
 Wissenschafter und Politiker sind verständlicherweise zurückhaltend zu verlangen, dass sich Menschen freiwillig für derartige Tests zur verfügung stellen - die gefahr eines Backlashes ist viel zu groß.
 Ich, als 25 Jähriger, weitgehend gesunder Mensch, der bereit ist, ein derartiges Risiko einzugehen, bin daher in einer besonderen Situation, diese Diskussion in Gang zu bringen.
 
-### Verbindung zu 1daysooner.org
+## Verbindung zu 1daysooner.org
 Derzeit besteht keine formale Beziehung zu [1daysooner.org](https://1daysooner.org).
 Die Seite diente bloß als Inspiration und Referenz.
 
