@@ -7,7 +7,7 @@ bibliography: biblio.bib
 ---
 ##### 'Human Challenge Trials' könnten die Entwicklung von Impfstoffen gegen den Corona Virus beschleunigen. Dabei werden, denen ein experimenteller Impfstoff verabreicht wurde, bewusst dem Virus ausgesetzt, um testen, ob sie eine Immunität aufgebaut haben.
 
-##### Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen. Ich (und auch führende Wissenschafter [@eyal]) denken aber, dass es aber in dieser Situation sinnvoll ist.
+##### Aus ethischen Gründen, ist dies normalerweise nicht vorgesehen. Ich (und auch führende Wissenschafter[@eyal]) denken aber, dass es aber in dieser Situation sinnvoll ist.
 
 ### *Deshalb melde ich mich hiermit freiwillig für einen derartige Studie.*
 
